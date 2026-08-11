@@ -84,7 +84,7 @@
     "esbuild": "^0.25.0",
     "fdir": "^6.4.6",
     "picomatch": "^4.0.2",
-    "postcss": "^8.5.5",
+    "postcss": "^8.5.23",
     "rollup": "^4.40.0",
     "tinyglobby": "^0.2.14"
   },
